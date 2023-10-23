@@ -1,4 +1,4 @@
 # -sumit-demo
 this is my first Git repository.
 <br>
-Author - Sumit kumar
+Author - Sumit 
